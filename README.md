@@ -1,46 +1,33 @@
-# Dream-Frame
-![image](https://i.imgur.com/WGv32qu.jpg)
-Bring a sexy translucent look to Discord with customizable options! BetterDiscord theme.
-# Downloads
-* Link: https://korbsstudio.com/Discord-Mods/themes/dream-frame.html
-* Demo: https://KorbsStudio.com/projects/DreamFrame.html
-# Helpful Links
-* How to install BetterDiscord: https://github.com/rauenzi/BetterDiscordApp#installation
-* How to install BeautifulDiscord: https://github.com/leovoel/BeautifulDiscord#installing
-# Donation
-Donate: https://Paypal.me/CorbsEditor
-# Exploring Dream Frame
-![Logo Cover](https://i.imgur.com/BpKlpWq.jpg)
-## Why Dream Frame?
-Dream Frame offers many options like changing colors, icons, sizes, and so on. There are more options are come, more advanced options to come as well if you're into that. This theme is the best translucent look to Discord, nothing can beat it!
-## All of the Options Offered by Dream Frame
-The creator tries to add as many options as possible and without failing thanks to the fallback system from v2.2
-The following is offered as of now:
-* Background
-* Background blur
-* Background opacity
-* Background scaling
-* Emoji menu height
-* Emoji size
-* Home icon
-* Avatar in chat size
-* Status color changing
-* Accent text, accent color
-* Font, font size
-* Border radius options
-* Custom background for your own profile
-* Server indicator colors
-* Titlebar icons(Windows)
-* Titlebar button colors(macOS)
+# Dream Frame
+![image](https://i.imgur.com/hB1Bpug.jpg)
+Dream Frame offers customization like custom background, colors, fonts, and blur adjustments. One of the best translucent themes out there for Powercord and BetterDiscord.
 
-More is to come! 
+[Dream Frame v4](https://github.com/dream-frame/Dream-Frame/tree/master/v4) now in progress!
 
-# Installing 
-## BetterDiscord
-* Windows -
-Install with the [setup](https://github.com/rauenzi/BetterDiscordApp/releases/download/0.3.1/BandagedBD_Windows.exe) and make sure that Discord has BetterDiscord settings. [Download](https://cdn.discordapp.com/attachments/528696134118539267/528696159821234179/DreamFrame.theme.css) Dream Frame next, go to the theme settings in Discord and Open Themes folder. Put Dream Frame in Themes folder and it should pop up automatically, reloading Discord is no longer required in BetterDiscord after adding a theme or plugin. 
-* macOS -
-Install with the [setup](https://github.com/rauenzi/BetterDiscordApp/releases/download/0.3.1/BandagedBD_Mac.zip) and make sure that Discord has BetterDiscord settings. [Download](https://cdn.discordapp.com/attachments/528696134118539267/528696159821234179/DreamFrame.theme.css) Dream Frame next, go to the theme settings in Discord and Open Themes folder. Put Dream Frame in Themes folder and it should pop up automatically, reloading Discord is no longer required in BetterDiscord after adding a theme or plugin.
-* Linux -
-Follow these instructions to install BetterDiscord. Make sure that `git` and `asar` is installed on Linux. After installing BetterDiscord, go to `/home/.config/BetterDiscord/themes/` and put [this](https://cdn.discordapp.com/attachments/528696134118539267/528696159821234179/DreamFrame.theme.css) in there.
-  
+## Features
+ ### Custom Background
+ Use an image URL from popular image providers to set whatever background you want that fill the whole screen. Set blur, opacity, rotation, and other adjustments to the background. 
+ ### Custom Colors
+ You can set an accent color to whatever you like best, instead of seeing Discord's default accent color known as blurple and also set accent text color.
+ ### Profile Covers
+ Dream Frame is one of the themes to support [profile covers](https://github.com/Discord-Custom-Covers/usrbg). Go to [Dream Frame's](https://discord.gg/Grya2sa) or [Black Box's](https://discord.gg/TeRQEPb) support server and request a background cover for your profile. You can also view other's covers too by viewing their profiles.
+
+## Discord Mod Support
+Dream Frame supports both [Powercord](https://Powercord.dev) and [BetterDiscord]().
+
+## Support
+[Join](https://discord.gg/Grya2sa) our Discord server to get support for Dream Frame or you could also join [Black Box](https://discord.gg/TeRQEPb) for support.
+
+## Downloads
+### Dream Frame
+ > Download for [Powercord](https://github.com/dream-frame/Dream-Frame/raw/master/Downloads/Powercord/Dream-Frame.zip)
+ 
+ > Download for [BetterDiscord](https://github.com/dream-frame/Dream-Frame/blob/master/Downloads/BetterDiscord/DreamFrame.theme.css)
+ 
+### Dream Frame Lite
+> Download for [Powercord](https://github.com/dream-frame/Dream-Frame-Lite/raw/master/Downloads/Powercord/Dream%20Frame%20Lite.zip)
+
+> Download for [BetterDiscord](https://github.com/dream-frame/Dream-Frame-Lite/blob/master/Downloads/BetterDiscord/DreamFrameLite.theme.css)
+
+___
+(C) 2018 - 2020 [Korbs Studio](https://KorbsStudio.com)
